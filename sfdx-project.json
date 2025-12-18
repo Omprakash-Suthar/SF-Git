@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "Playground-Project",
+  "namespace": "",
+  "sfdcLoginUrl": "https://mindful-wolf-1s3k4-dev-ed.trailblaze.my.salesforce-setup.com/",
+  "sourceApiVersion": "64.0"
+}
