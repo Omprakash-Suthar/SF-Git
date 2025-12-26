@@ -12,24 +12,29 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
-                <fullName>Test1,</fullName>
+                <fullName>Test1</fullName>
                 <default>false</default>
-                <label>Test1,</label>
+                <label>Test1</label>
             </value>
             <value>
-                <fullName>Test2,</fullName>
+                <fullName>Test2</fullName>
                 <default>false</default>
-                <label>Test2,</label>
+                <label>Test2</label>
             </value>
             <value>
-                <fullName>Test3,</fullName>
+                <fullName>Test3</fullName>
                 <default>false</default>
-                <label>Test3,</label>
+                <label>Test3</label>
             </value>
             <value>
-                <fullName>Test4,</fullName>
+                <fullName>Test4</fullName>
                 <default>false</default>
-                <label>Test4,</label>
+                <label>Test4</label>
+            </value>
+            <value>
+                <fullName>Test5</fullName>
+                <default>false</default>
+                <label>Test5</label>
             </value>
         </valueSetDefinition>
     </valueSet>

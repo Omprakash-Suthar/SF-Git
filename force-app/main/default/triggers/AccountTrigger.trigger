@@ -12,3 +12,5 @@ trigger AccountTrigger on Account (before insert, before update, before delete) 
 // Notes
 // Extensions Specific to sales and service.
 // Usage of AI tools.
+// How to push data lower to higher??
+// Azure devops is using the version control??
